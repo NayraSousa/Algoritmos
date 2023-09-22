@@ -1,4 +1,4 @@
 Algoritmos em Linguagem C e Python
 
 em C:
-- Insertion Sort
+- Insertion Sort (Ordenação por Inserção)

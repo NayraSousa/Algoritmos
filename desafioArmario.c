@@ -36,10 +36,13 @@ int main(){
                 } 
                 else{
                     srand(time(NULL));
-                    y = rand() % 8;
-                    mask = mask << y;
-                    numero = numero | mask;
-                    mask = 1;
+                    int verifica = numero;
+                    while (verifica == numero){
+                        y = rand() % 8;
+                        mask = mask << y;
+                        numero = numero | mask;
+                        mask = 1;
+                    }
                     break;
                     }
 

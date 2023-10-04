@@ -1,6 +1,5 @@
-Algoritmos em Linguagem C e Python
+Algoritmos em Linguagem C
 
-em C:
 - Insertion Sort (Ordenação por Inserção)
 - Sistema de armários
 - Bubble Sort (Ordenação Bolha)
